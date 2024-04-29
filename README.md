@@ -461,7 +461,3 @@ For a comprehensive list of Promise resources and small modules to avoid library
 - [JavaScript Promises: There and back again](http://www.html5rocks.com/en/tutorials/es6/promises/)
 - [We Have a Problem With Promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 - [You're Missing the Point of Promises](https://blog.domenic.me/youre-missing-the-point-of-promises/)
-
-## License
-
-MIT, see [LICENSE.md](http://github.com/mattdesl/promise-cookbook/blob/master/LICENSE.md) for details.
