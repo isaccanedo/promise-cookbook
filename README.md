@@ -427,7 +427,7 @@ var Promise = global.Promise || require('es6-promise').Promise;
 
 In addition to the the issues mentioned in [`throw` and implicit catch](#throw-and-implicit-catch), there are some other problems to keep in mind when choosing promises. Some developers choose not to use promises for these reasons.
 
-### promises in small modules
+## promises in small modules
 
 One situation where promises are not yet a good fit is in small, self-contained [npm](https://www.npmjs.com/) modules.
 
